@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpyTour.iml" filepath="$PROJECT_DIR$/SpyTour.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/StaggeredGridView-master/StaggeredGridView-master.iml" filepath="$USER_HOME$/workspace/StaggeredGridView-master/StaggeredGridView-master.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/actionbarsherlock/actionbarsherlock.iml" filepath="$USER_HOME$/workspace/actionbarsherlock/actionbarsherlock.iml" />
+    </modules>
+  </component>
+</project>
+

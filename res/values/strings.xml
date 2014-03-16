@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Spy Tour</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_spy</item>
+    </array>
+
+    <string-array name="nav_drawer_items">
+        <item>Menu 1</item>
+        <item>Menu 2</item>
+    </string-array>
+
+</resources>

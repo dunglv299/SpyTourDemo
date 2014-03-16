@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="margin">12dp</dimen>
+    <dimen name="drawer_title_margin_left">58dp</dimen>
+</resources> 
