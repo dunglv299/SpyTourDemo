@@ -20,7 +20,7 @@ public class MemoryCache {
 																				// LRU
 																				// ordering
 	private long size = 0;// current allocated size
-	private long limit = 1000000;// max memory in bytes
+	private long limit = 10000000;// max memory in bytes
 
 	public MemoryCache() {
 		// use 25% of available heap size
